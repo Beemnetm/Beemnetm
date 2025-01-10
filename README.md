@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **tensorflow**
 
-- 👨‍💻 All of my projects are available at [beemnet-mulugeta-portfolio.vercel.app/](beemnet-mulugeta-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [beemnet-mulugeta-portfolio.vercel.app/](https://beemnet-mulugeta-portfolio.vercel.app/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/beemnet-mulugeta-a60b87318](https://www.linkedin.com/in/beemnet-mulugeta-a60b87318)
 
